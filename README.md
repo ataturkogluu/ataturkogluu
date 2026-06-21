@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ataturkogluu
-- 👀 I’m interested in Software
-- 🌱 I’m a student at Yıldız Technical University and my department is Electronics and Communication Engineering
+- 🌱 I’m a Msc. student at Yıldız Technical University and my department is Computer Engineering
 - 📫 How to reach me ardaataturkoglu0@gmail.com
 
 <!---
